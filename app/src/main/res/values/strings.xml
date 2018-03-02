@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MrFox</string>
+    <string name="textSplash">Bienvenido</string>
+    <string name="txtNombre">Introduce tu nombre</string>
+    <string name="txtCont">Introduce la contraseña</string>
+    <string name="btnEntrar">Continuar</string>
+    <string name="action_settings">Salir</string>
+    <string name="textTitulo">MrFox</string>
+    <string name="btnUnistall">Uninstall</string>
+    <string name="btnUpdate">Update</string>
+    <string name="texto">Material Design es una guía integral para el diseño visual, de movimientos
+        y de interacción en distintas plataformas y dispositivos. Android ahora es compatible con
+        las aplicaciones de Material Design. Para usar Material Design en tus aplicaciones de
+        Android, sigue las pautas descritas en la especificación de Material Design y usa los nuevos
+        componentes y funcionalidades disponibles en Android 5.0 (nivel de API 21) y versiones
+        posteriores. El tema Material te ofrece un nuevo estilo para tu aplicación, widgets del
+        sistema que te permiten configurar la paleta de colores y animaciones predeterminadas para
+        información táctil y transiciones de actividades.  Las nuevas API de animaciones te permiten
+        crear animaciones personalizadas para la información táctil en los controles de IU, además
+        de realizar cambios en el estado de las vistas y transiciones entre actividades.</string>
+</resources>
