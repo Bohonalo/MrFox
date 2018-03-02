@@ -16,5 +16,6 @@ public class LoginActivity extends AppCompatActivity {
     public void continuar(View view) {
         Intent i = new Intent(LoginActivity.this, MyMain.class);
         startActivity(i);
+        finish();
     }
 }
